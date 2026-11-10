@@ -1,0 +1,5 @@
+.next/
+*.tgz
+*.log
+.env.local
+dist/
